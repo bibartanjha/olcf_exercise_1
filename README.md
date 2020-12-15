@@ -1,20 +1,33 @@
 ## Installation
 
 Use the package manager pip to install flask and pymongo.
+```
+pip install flask
+pip install pymongo 
+```
 
 ## Run
 Use '127.0.0.1' and port '8080'
+
 Run main.py
+```
+python main.py
+```
 
 ## Used
 Language: Python
+
 Framework: Flask
+
 Database: MongoDB
 
 ## What can be improved
 Adding JavaScript functionalities to make UI more interactive
+
 Using pagination for displaying batch records
+
 Including more features (i.e. sorting batch records by attributes)
+
 Using a MySQL database (I am more familiar with MongoDB, which is why I used it here) 
 
 ## Note
