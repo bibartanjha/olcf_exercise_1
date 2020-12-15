@@ -1,14 +1,5 @@
 from flask import Flask, render_template, url_for, request, redirect
-import pymongo
 from pymongo import MongoClient
-import csv
-import requests
-import http.client
-import json
-import random
-import string
-import math
-import re
 
 app = Flask(__name__)
 
